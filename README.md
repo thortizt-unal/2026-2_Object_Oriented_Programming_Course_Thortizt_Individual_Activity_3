@@ -46,7 +46,7 @@
 <h2 align="center">📖 Descripción</h2>
 
 <p align="center">
-Este repositorio contiene los ejercicios de la <b>Actividad 2</b> de Programación Orientada a Objetos,<br>
+Este repositorio contiene los ejercicios de la <b>Actividad 3</b> de Programación Orientada a Objetos,<br>
 tomados del libro <i>Ejercicios de programación orientada a objetos con Java/ Python y UML</i> de Leonardo Bermón Angarita,<br>
 y desarrollados en <b>Python</b> usando clases, atributos, métodos, enumerados e instancias.
 </p>
