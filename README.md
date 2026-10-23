@@ -12,7 +12,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![POO](https://img.shields.io/badge/Paradigma-POO-8B0000?style=for-the-badge)
-![Actividad](https://img.shields.io/badge/Actividad-2-2E7D32?style=for-the-badge)
+![Actividad](https://img.shields.io/badge/Actividad-3-2E7D32?style=for-the-badge)
 ![Periodo](https://img.shields.io/badge/Periodo-2026--2S-F9A825?style=for-the-badge)
 
 <br>
@@ -47,8 +47,8 @@
 
 <p align="center">
 Este repositorio contiene los ejercicios de la <b>Actividad 3</b> de Programación Orientada a Objetos,<br>
-tomados del libro <i>Ejercicios de programación orientada a objetos con Java/ Python y UML</i> de Leonardo Bermón Angarita,<br>
-y desarrollados en <b>Python</b> usando clases, atributos, métodos, enumerados e instancias.
+tomados del libro <i>Ejercicios de programación orientada a objetos con Java y UML</i> de Leonardo Bermón Angarita,<br>
+y desarrollados en <b>Python</b> usando clases, herencia, interfaces gráficas y eventos.
 </p>
 
 ---
@@ -59,8 +59,8 @@ y desarrollados en <b>Python</b> usando clases, atributos, métodos, enumerados 
 
 | N.º | Ejercicio | Tema | Código |
 |:---:|:---|:---|:---:|
-| 1 | **Persona** | Definición de clases | [`Ejercicio 8.2.py`](Ejercicios/Ejercicio%202.1.py) |
-| 2 | **Planeta** | Definición de atributos de una clase | [`Ejercicio 8.3.py`](Ejercicios/Ejercicio%202.2.py) |
+| 1 | **Notas** | Promedio, desviación, nota mayor y menor | [`Ejercicio 8.2.py`](Ejercicio%208.2.py) |
+| 2 | **Figuras geométricas** | Eventos y listeners en interfaz gráfica | [`Ejercicio 8.3.py`](Ejercicio%208.3.py) |
 
 </div>
 
